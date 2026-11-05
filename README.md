@@ -36,8 +36,11 @@ src/
 
 ## Capturas
 
-> Agrega aquí tus capturas (carpeta `screenshots/`):
-> 1. Listado completo
+listado:
+> <img width="878" height="588" alt="filtro" src="https://github.com/user-attachments/assets/0da921c7-e2b6-4396-98d7-2dff544e15b4" />
 > 2. Filtro aplicado
+> <img width="745" height="463" alt="filtro_funcional" src="https://github.com/user-attachments/assets/f181ca88-4fe2-4802-bfff-c4e1428e53f4" />
 > 3. Modal abierto con ciudades
+<img width="734" height="562" alt="modal abierto" src="https://github.com/user-attachments/assets/8c3cbf20-1a36-4675-9548-30a2c0d0394e" />
 > 4. Estado de error / carga
+<img width="1051" height="515" alt="error" src="https://github.com/user-attachments/assets/908f8ec6-cd67-4e91-98a3-39fb0baefcb9" />
